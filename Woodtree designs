@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>WoodTree Designs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    .services {
+      background: #fff;
+      margin: 20px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      padding: 10px;
+      font-size: 14px;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>WoodTree Designs</h1>
+    <p>Crafting Comfort. Creating Style.</p>
+  </header>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li>🛋️ Upholstery & Furniture Making</li>
+      <li>🪚 Carpentry & Welding</li>
+      <li>🎨 Painting, Tiling & Flooring</li>
+      <li>🏠 Property Sales & Consultancy</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Phone: <a href="tel:+263772309559">0772 309 559</a></p>
+    <p>Email: <a href="mailto:fari.mpamhanga@gmail.com">fari.mpamhanga@gmail.com</a></p>
+    <p>WhatsApp Catalog: <a href="https://wa.me/c/263772309559" target="_blank">Click Here</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 WoodTree Designs. All rights reserved.
+  </footer>
+</body>
+</html>
